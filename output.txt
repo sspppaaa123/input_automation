@@ -1,0 +1,3 @@
+output_files\armstrongop.txt
+output_files\names_searchop.txt
+output_files\primeop.txt

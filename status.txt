@@ -1,0 +1,3 @@
+armstrong.py -successful
+names_search.py -successful
+prime.py -successful
